@@ -1,6 +1,11 @@
 # John Wayne Landong
 ### 3rd Year Computer Science Student
-Computer Science undergraduate with hands-on experience in academic and personal software projects<br><br>I’m a driven Software Engineer in training, focused on building well-structured, reliable, and maintainable applications. My background includes object-oriented programming, database-driven systems, and desktop application development, with growing exposure to full-stack and backend technologies.<br><br>I specialize in designing clean system logic, implementing secure data handling, and applying software engineering fundamentals — from Java-based applications and SQL integration to system modeling and architecture — with a strong interest in cybersecurity and system integrity.
+
+I’m a third-year Computer Science student at the University of Cabuyao focused on the intersection of software engineering and cybersecurity. I’m a problem-solver at heart who enjoys digging into how systems are built and, more importantly, learning how to make them more resilient.
+
+Currently, I am leading a four-member undergraduate thesis project developing an **Adaptive API Rate Limiting System** that utilizes heuristic pattern classification and machine learning. On the side, I am building a personal **Secure Enterprise Network Hardening Lab**, where I design and secure simulated infrastructures using Cisco Packet Tracer.
+
+I specialize in building secure, scalable applications—from full-stack web development with React and Laravel to backend systems using FastAPI and Redis. Backed by certifications from IBM, Cisco, and freeCodeCamp, I aim to create software that is intentional, clean, and secure by design.
 
 
 ## Socials:
