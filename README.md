@@ -1,5 +1,5 @@
 # John Wayne Landong
-### 3rd Year Computer Science Student
+### Computer Science Student
 
 I’m a third-year Computer Science student at the University of Cabuyao focused on the intersection of software engineering and cybersecurity. I’m a problem-solver at heart who enjoys digging into how systems are built and, more importantly, learning how to make them more resilient.
 
