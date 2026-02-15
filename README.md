@@ -43,8 +43,10 @@ I specialize in building secure, scalable applications—from full-stack web dev
 
 ---
 
-### Networking & Infrastructure
+### Cybersecurity & Networking
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=Nmap&logoColor=white)
 
 ---
 
