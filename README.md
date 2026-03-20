@@ -5,7 +5,7 @@ I’m a third-year Computer Science student at the University of Cabuyao focused
 
 Currently, I am leading a four-member undergraduate thesis project developing an **Adaptive API Rate Limiting System** that utilizes heuristic pattern classification and machine learning. On the side, I am building a personal **Secure Enterprise Network Hardening Lab**, where I design and secure simulated infrastructures using Cisco Packet Tracer.
 
-I specialize in building secure, scalable applications—from full-stack web development with React and Laravel to backend systems using FastAPI and Redis. Backed by certifications from IBM, Cisco, and freeCodeCamp, I aim to create software that is intentional, clean, and secure by design.
+My focus has shifted toward cybersecurity and networking—I enjoy digging into how systems are built and learning how to make them more secure. I believe software should be intentional. To me, that means writing code that is clean, secure, and easy for others to maintain.
 
 
 ## Socials:
