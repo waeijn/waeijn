@@ -3,7 +3,7 @@
 
 I’m a fourth-year Computer Science student at the University of Cabuyao focused on the intersection of software engineering and cybersecurity. I’m a problem-solver at heart who enjoys digging into how systems are built and, more importantly, learning how to make them more resilient.
 
-Currently, I am leading a four-member undergraduate thesis project developing an **Adaptive API Rate Limiting System** that utilizes heuristic pattern classification and machine learning. On the side, I am building a personal **Secure Enterprise Network Hardening Lab**, where I design and secure simulated infrastructures using Cisco Packet Tracer.
+Currently, I am leading a four-member undergraduate thesis project developing an Adaptive API Rate Limiting System that utilizes heuristic pattern classification and token bucket algorithm. Alongside my academic work, I recently completed a Secure Enterprise Network Hardening Lab focused on network segmentation and defense, and I am currently building a hands-on Security Operations Center (SOC) Home Lab to practice telemetry ingestion, threat detection, and incident response.
 
 My focus has shifted toward cybersecurity and networking—I enjoy digging into how systems are built and learning how to make them more secure. I believe software should be intentional. To me, that means writing code that is clean, secure, and easy for others to maintain.
 
