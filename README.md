@@ -18,8 +18,4 @@ Fourth-year Computer Science student at the University of Cabuyao focused on sof
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waeijn&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Waeijn&color=fe7d37&label_color=0d1117&style=flat)](https://github.com/Waeijn)
-
 </div>
