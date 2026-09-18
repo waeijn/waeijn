@@ -5,7 +5,7 @@
 
 ---
 
-Fourth-year Computer Science student at the University of Cabuyao focused on software engineering, cybersecurity, and networking. I believe software should be intentional: clean, secure, and maintainable.
+Fourth-year Computer Science student at the University of Cabuyao focused on software engineering, cybersecurity, and networking.
 
 **Current Work & Focus:**
 * **Undergraduate Thesis:** Leading a 4-member team developing an *Adaptive API Rate Limiting System* using heuristic pattern classification and token bucket algorithms.
