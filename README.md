@@ -17,6 +17,6 @@ Fourth-year Computer Science student at the University of Cabuyao focused on sof
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waeijn&theme=shadow-orange&hide_border=true&hide_total_contributions=true&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Waeijn&theme=shadow-orange&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&v=1)](https://git.io/streak-stats)
 
 </div>
