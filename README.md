@@ -8,7 +8,7 @@
 Fourth-year Computer Science student at the University of Cabuyao focused on software engineering, cybersecurity, and networking.
 
 **Current Work & Focus:**
-* **Undergraduate Thesis:** Leading a 4-member team developing an *Adaptive API Rate Limiting System*
+* **Undergraduate Thesis:** Leading a 4-member team developing an *Adaptive API Rate Limiting Middleware*
 * **Game Development:** All-around team lead for Core Threads, developing a 1-bit MS-DOS-like roguelite deckbuilder.
 * **SOC Home Lab:** Building an environment for telemetry ingestion, threat detection, and incident response.
 * **Network Hardening:** Implementing network segmentation and defensive configurations.
