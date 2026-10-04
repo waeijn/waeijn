@@ -5,7 +5,7 @@
 
 ---
 
-Fourth-year Computer Science student at the University of Cabuyao focused on software engineering, cybersecurity, and networking.
+A fourth-year Computer Science undergraduate at the University of Cabuyao, specializing in software engineering with a growing focus on cybersecurity and network infrastructure.
 
 **Current Work & Focus:**
 * **Undergraduate Thesis:** Leading a 4-member team developing an *Adaptive API Rate Limiting Middleware*
