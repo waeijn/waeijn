@@ -8,10 +8,10 @@
 A fourth-year Computer Science undergraduate at the University of Cabuyao, specializing in software engineering with a growing focus on cybersecurity and network infrastructure.
 
 **Current Work & Focus:**
-* **Undergraduate Thesis:** Leading a 4-member team developing an *Adaptive API Rate Limiting Middleware*
-* **Game Development:** All-around team lead for CORE THREADS, developing a 1-bit MS-DOS-like roguelite deckbuilder.
-* **SOC Home Lab:** Building an environment for telemetry ingestion, threat detection, and incident response.
-* **Network Hardening:** Implementing network segmentation and defensive configurations.
+- **Mobile App Development:** Developing *SignKo*, a Filipino Sign Language translation app integrated with an ESP32 TinyML smart glove.
+- **Game Development:** All-around team lead for *CORE THREADS*, developing a 1-bit MS-DOS-like roguelite deckbuilder.
+- **Undergraduate Thesis:** Leading a 4-member team developing *SentiRate*, an adaptive API rate limiting middleware.
+- **SOC Home Lab:** Building an environment for telemetry ingestion, threat detection, and incident response.
 
 ---
 
