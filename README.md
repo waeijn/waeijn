@@ -8,7 +8,7 @@
 A fourth-year Computer Science undergraduate at the University of Cabuyao, specializing in software engineering with a growing focus on cybersecurity and network infrastructure.
 
 **Current Work & Focus:**
-- **Mobile App Development:** Developing *SignKo*, a Filipino Sign Language translation app integrated with an ESP32 TinyML smart glove.
+- **Mobile App Development:** Developing *SignKo*, a Filipino Sign Language translation app integrated with an ESP32 smart glove.
 - **Game Development:** All-around team lead for *CORE THREADS*, developing a 1-bit MS-DOS-like roguelite deckbuilder.
 - **Undergraduate Thesis:** Leading a 4-member team developing *SentiRate*, an adaptive API rate limiting middleware.
 - **SOC Home Lab:** Building an environment for telemetry ingestion, threat detection, and incident response.
